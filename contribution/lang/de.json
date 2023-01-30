@@ -70,11 +70,11 @@
  	 	 	},
  	 	 	"resource": {
  	 	 	 	"trans": "Ressourcen",
- 	 	 	 	"eng": "Resource"
+ 	 	 	 	"eng": "Resources"
  	 	 	},
  	 	 	"funding": {
  	 	 	 	"trans": "Geldmittel",
- 	 	 	 	"eng": "funding"
+ 	 	 	 	"eng": "fundings"
  	 	 	},
  	 	 	"memberCount": {
  	 	 	 	"trans": "Mitglieder",
